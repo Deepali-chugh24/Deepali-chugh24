@@ -11,19 +11,19 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+
 </div>
 
 <br>
 
 <div align="center">
   
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  
  </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
-
-
 
 - 🌱 I’m currently learning **Data science with python**
 
@@ -56,18 +56,13 @@
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
-<h3 align="left">Tools:</h3>
 
+- Tool
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   </a>
 </p>
-
 <br/>
-
-
  <br><br>
-
-
 <br><br><br>
