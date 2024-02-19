@@ -31,7 +31,7 @@
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://leetcode.com/Deepali_Chugh11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/deepali-chugh24/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Deepali Chugh" height="30" width="40" /></a>
+<a href="https://leetcode.com/Deepali_Chugh11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuljain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Deepali Chugh" height="30" width="40" /></a>
 
 </p>
 <br>
